@@ -4,6 +4,7 @@ http/websocket dump tool, develop based on github.com/google/gopacket project
 ### Dependency
 
 - libpcap
+- github.com/google/gopacket
 
 ### Usage
 ```
